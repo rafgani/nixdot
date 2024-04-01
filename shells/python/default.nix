@@ -30,7 +30,7 @@ pkgs.mkShell {
   (
   with pkgs;[
     manim
-    texliveSmall
+    texliveFull
     cairo
     ffmpeg
   ]

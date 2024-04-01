@@ -57,13 +57,11 @@
     cairo
     evince
     qutebrowser
-    texliveMedium
+    texliveFull
     qpdfview
     nitrogen
     xournalpp
     xfce.xfwm4-themes
-    pdfarranger
-   
-    
+    pdfarranger     
   ];
 }

@@ -53,7 +53,7 @@
     geogebra6
     kate
     light
-    python311Packages.manimpango
+    
     cairo
     evince
     qutebrowser

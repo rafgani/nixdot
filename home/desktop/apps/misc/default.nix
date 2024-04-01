@@ -24,7 +24,6 @@
     cmatrix
     onefetch
     xfce.thunar # Best GUI file manager
-    # nitrogen # Wallpaper utility for X11
 
     # Screenshot + extra utils
     grim # Screenshot tool for hyprland
